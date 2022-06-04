@@ -3,7 +3,9 @@
 ## 🎸 Stack:
 - Language: Python🐍.
 - Development approach: Pytest🔨, Selenium🦾.
-## To Start:
+## Installation and usage:
+### Go to site https://chromedriver.chromium.org and download webdriver for your version of chrome
+### Then go to directory driver and delete existence driver then insert new driver.
 ### Run in terminal next line:
     pip install -r requirements.txt
 ## 📌 List of tests: 
