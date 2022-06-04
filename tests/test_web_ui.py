@@ -2,7 +2,7 @@ import re
 import time
 
 import pytest
-from selenium.common import ElementClickInterceptedException
+from selenium.common.exceptions import ElementClickInterceptedException
 
 from base.selenium_base import Base
 
