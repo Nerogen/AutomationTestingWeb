@@ -10,25 +10,25 @@
 #### 3. Run in terminal next line:
     pip install -r requirements.txt
 ## 📌 List of tests: 
-:white_check_mark: 1. Basic of software code development.
+:white_check_mark: 1. Test home page.
 
-:white_check_mark: 2. Algorithmization.
+:white_check_mark: 2. Test main categories.
 
-:white_check_mark: 3. Strings and basics of text processing.
+:white_check_mark: 3. Test naming of main categories.
 
-:white_check_mark: 4. Programming with classes.
+:white_check_mark: 4. Test categories in head.
 
-:white_check_mark: 5. Test of OOP.
+:white_check_mark: 5. Test naming categories in head.
 
-:white_check_mark: 6. Tasks.
+:white_check_mark: 6. Test shopping cart.
 
-:white_check_mark: 7. Basic of software code development.
+:white_check_mark: 7. Test tabs info about company.
 
-:white_check_mark: 8. Algorithmization.
+:white_check_mark: 8. Test naming tabs info about company.
 
-:white_check_mark: 9. Strings and basics of text processing.
+:white_check_mark: 9. Test click on tabs with info about company.
 
-:white_check_mark: 10. Programming with classes.
+:white_check_mark: 10. Test icons with social network links.
 
 :white_check_mark: 11. Test of OOP.
 
