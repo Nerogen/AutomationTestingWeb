@@ -4,7 +4,8 @@
 - Language: Python🐍.
 - Development approach: Pytest🔨, Selenium🦾.
 ## To Start:
-
+### Run in terminal next line:
+    pip install -r requirements.txt
 ## 📌 List of tests: 
 - [X] 1 - Basic of software code development.
 - [ ] 2 - Algorithmization.
