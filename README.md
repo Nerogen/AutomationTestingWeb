@@ -1,5 +1,5 @@
 ### _Welcome to my repository!_
-#### _Here you can view automation testing of site: https://segway.vercel.app"_
+#### _Here you can view automation testing of site: https://segway.vercel.app_
 ## 🎸 Stack:
 - Language: Python🐍.
 - Development approach: Pytest🔨, Selenium🦾.
