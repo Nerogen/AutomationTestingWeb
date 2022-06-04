@@ -10,9 +10,9 @@
 #### 3. Run in terminal next line:
     pip install -r requirements.txt
 ## 📌 List of tests: 
-- [X] 1 - Basic of software code development.
-- [ ] 2 - Algorithmization.
-- [ ] 3 - Strings and basics of text processing.
-- [ ] 4 - Programming with classes.
-- [ ] 5 - Test of OOP.
-- [ ] 6 - Tasks.
+:white_check_mark: 1 - Basic of software code development.
+:white_check_mark: 2 - Algorithmization.
+:white_check_mark: 3 - Strings and basics of text processing.
+:white_check_mark: 4 - Programming with classes.
+:white_check_mark: 5 - Test of OOP.
+:white_check_mark: 6 - Tasks.
