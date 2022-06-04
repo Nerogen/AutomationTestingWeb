@@ -30,82 +30,82 @@
 
 :white_check_mark: 10. Test icons with social network links.
 
-:white_check_mark: 11. Test of OOP.
+:white_check_mark: 11. 
 
-:white_check_mark: 12. Tasks.
+:white_check_mark: 12. 
 
-:white_check_mark: 13. Basic of software code development.
+:white_check_mark: 13. 
 
-:white_check_mark: 14. Algorithmization.
+:white_check_mark: 14. 
 
-:white_check_mark: 15. Strings and basics of text processing.
+:white_check_mark: 15. 
 
-:white_check_mark: 16. Programming with classes.
+:white_check_mark: 16. 
 
-:white_check_mark: 17. Test of OOP.
+:white_check_mark: 17. 
 
-:white_check_mark: 18. Tasks.
+:white_check_mark: 18. 
 
-:white_check_mark: 19. Basic of software code development.
+:white_check_mark: 19. 
 
-:white_check_mark: 20. Algorithmization.
+:white_check_mark: 20. 
 
-:white_check_mark: 21. Test of OOP.
+:white_check_mark: 21. 
 
-:white_check_mark: 22. Tasks.
+:white_check_mark: 22. 
 
-:white_check_mark: 23. Basic of software code development.
+:white_check_mark: 23. 
 
-:white_check_mark: 24. Algorithmization.
+:white_check_mark: 24. 
 
-:white_check_mark: 25. Strings and basics of text processing.
+:white_check_mark: 25. 
 
-:white_check_mark: 26. Programming with classes.
+:white_check_mark: 26. 
 
-:white_check_mark: 27. Test of OOP.
+:white_check_mark: 27. 
 
-:white_check_mark: 28. Tasks.
+:white_check_mark: 28. 
 
-:white_check_mark: 29. Basic of software code development.
+:white_check_mark: 29. 
 
-:white_check_mark: 30. Strings and basics of text processing.
+:white_check_mark: 30. 
 
-:white_check_mark: 31. Test of OOP.
+:white_check_mark: 31. 
 
-:white_check_mark: 32. Tasks.
+:white_check_mark: 32. 
 
-:white_check_mark: 33. Basic of software code development.
+:white_check_mark: 33.
 
-:white_check_mark: 34. Algorithmization.
+:white_check_mark: 34.
 
-:white_check_mark: 35. Strings and basics of text processing.
+:white_check_mark: 35. 
 
-:white_check_mark: 36. Programming with classes.
+:white_check_mark: 36. 
 
-:white_check_mark: 37. Test of OOP.
+:white_check_mark: 37. 
 
-:white_check_mark: 38. Tasks.
+:white_check_mark: 38. 
 
-:white_check_mark: 39. Basic of software code development.
+:white_check_mark: 39.
 
-:white_check_mark: 40. Programming with classes.
+:white_check_mark: 40. 
 
-:white_check_mark: 41. Test of OOP.
+:white_check_mark: 41.
 
-:white_check_mark: 42. Tasks.
+:white_check_mark: 42. 
 
-:white_check_mark: 43. Basic of software code development.
+:white_check_mark: 43.
 
-:white_check_mark: 44. Algorithmization.
+:white_check_mark: 44. 
 
-:white_check_mark: 45. Strings and basics of text processing.
+:white_check_mark: 45. 
 
-:white_check_mark: 46. Programming with classes.
+:white_check_mark: 46. 
 
-:white_check_mark: 47. Test of OOP.
+:white_check_mark: 47. 
 
-:white_check_mark: 48. Tasks.
+:white_check_mark: 48. 
 
-:white_check_mark: 49. Basic of software code development.
+:white_check_mark: 49. 
 
-:white_check_mark: 50. Test of OOP.
+:white_check_mark: 50. 
