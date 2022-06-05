@@ -30,82 +30,82 @@
 
 :white_check_mark: 10. Test icons with social network links.
 
-:white_check_mark: 11. 
+:white_check_mark: 11. Test addresses of social networks.
 
-:white_check_mark: 12. 
+:white_check_mark: 12. Test items in end of page.
 
-:white_check_mark: 13. 
+:white_check_mark: 13. Test number of links in category.
 
-:white_check_mark: 14. 
+:white_check_mark: 14. Test naming of links in category.
 
-:white_check_mark: 15. 
+:white_check_mark: 15. Test addresses of links in category.
 
-:white_check_mark: 16. 
+:white_check_mark: 16. Test number of cards in first category.
 
-:white_check_mark: 17. 
+:white_check_mark: 17. Test number of cards in second category.
 
-:white_check_mark: 18. 
+:white_check_mark: 18. Test number of cards in third category.
 
-:white_check_mark: 19. 
+:white_check_mark: 19. Test addresses of cards in first category.
 
-:white_check_mark: 20. 
+:white_check_mark: 20. Test addresses of cards in second category.
 
-:white_check_mark: 21. 
+:white_check_mark: 21. Test colors in first category.
 
-:white_check_mark: 22. 
+:white_check_mark: 22. Test extended warranty in first category.
 
-:white_check_mark: 23. 
+:white_check_mark: 23. Test calculation extended warranty in first category.
 
-:white_check_mark: 24. 
+:white_check_mark: 24. Test button by it now in first category.
 
-:white_check_mark: 25. 
+:white_check_mark: 25. Test button add to card in first category.
 
-:white_check_mark: 26. 
+:white_check_mark: 26. Test button plus in first card of first category.
 
-:white_check_mark: 27. 
+:white_check_mark: 27. Test button minus in first card of first category.
 
-:white_check_mark: 28. 
+:white_check_mark: 28. Test clear button in first card of first category.
 
-:white_check_mark: 29. 
+:white_check_mark: 29. Test extend buttons in first card of first category.
 
-:white_check_mark: 30. 
+:white_check_mark: 30. Test hide order summary in first category.
 
-:white_check_mark: 31. 
+:white_check_mark: 31. Test bonus price in shop cart.
 
-:white_check_mark: 32. 
+:white_check_mark: 32. Test back button in shop cart.
 
-:white_check_mark: 33.
+:white_check_mark: 33. Test logo click.
 
-:white_check_mark: 34.
+:white_check_mark: 34. Test logo in first card.
 
-:white_check_mark: 35. 
+:white_check_mark: 35. Test scroll button in first page.
 
-:white_check_mark: 36. 
+:white_check_mark: 36. Test number of payment variables methods.
 
-:white_check_mark: 37. 
+:white_check_mark: 37. Test add to card in compare specification.
 
-:white_check_mark: 38. 
+:white_check_mark: 38. Test in second category bundle buttons.
 
-:white_check_mark: 39.
+:white_check_mark: 39. Test navigation button catalog.
 
-:white_check_mark: 40. 
+:white_check_mark: 40. Test navigation button shipping and payment.
 
-:white_check_mark: 41.
+:white_check_mark: 41. Test navigation button wholesale.
 
-:white_check_mark: 42. 
+:white_check_mark: 42. Test navigation button contacts.
 
-:white_check_mark: 43.
+:white_check_mark: 43. Test button see details.
 
-:white_check_mark: 44. 
+:white_check_mark: 44. Test see more button in first category.
 
-:white_check_mark: 45. 
+:white_check_mark: 45. Test see more button in second category.
 
-:white_check_mark: 46. 
+:white_check_mark: 46. Test see more button in third category.
 
-:white_check_mark: 47. 
+:white_check_mark: 47. Test slider in main menu_right button.
 
-:white_check_mark: 48. 
+:white_check_mark: 48. Test slider in main left button.
 
-:white_check_mark: 49. 
+:white_check_mark: 49. Test next slider on main page.
 
-:white_check_mark: 50. 
+:white_check_mark: 50. Test next slider on main page back.
