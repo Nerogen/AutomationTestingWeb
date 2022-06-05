@@ -177,7 +177,7 @@ class TestWebUi:
         test_object = Base(driver=self.driver)
         test_object.are_visible('class_name', 'top-category-slider__item')[0].click()
         test_object.is_visible('class_name', 'category-slider__overlay-link').click()
-        colors = test_object.are_visible('class_name', 'form-colors__item-link')[:2]
+        colors = test_object.are_present('class_name', 'form-colors__item-link')[:2]
         link = ''
         for color in colors:
             color.click()
@@ -357,6 +357,7 @@ class TestWebUi:
         try:
             test_object.is_present('xpath', '//*[@id="__next"]/footer/div/div/div[1]/div/a/span/img').click()
         except ElementClickInterceptedException:
+            time.sleep(0.5)
             # click on logo image in the end of page
             test_object.is_present('xpath', '//*[@id="__next"]/footer/div/div/div[1]/div/a/span/img').click()
         # assertion what element exist on page

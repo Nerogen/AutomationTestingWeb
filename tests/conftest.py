@@ -7,7 +7,7 @@ from selenium.webdriver.chrome.options import Options
 def get_chrome_options():
     """Setup chrome options and return this"""
     options = Options()
-    options.add_argument('headless')  # Run in "chrome" mode, if need a UI or display server dependencies.
+    options.add_argument('chrome')  # Run in "headless" mode, if not need a UI or display server dependencies.
     options.add_argument('--start-maximized')  # Starts the browser maximized, regardless of any previous settings.
     options.add_argument('--window-size=1100,800')  # 1100 x 800 window size
     return options
