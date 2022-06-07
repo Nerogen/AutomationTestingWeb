@@ -193,7 +193,9 @@ class TestWebUi:
         buttons = test_object.are_visible('class_name', 'form-with-warrancy__form-button')[:3]
         price = test_object.is_visible('class_name', 'form-with-warrancy__form-price-new').text
         for button in buttons:
+            time.sleep(0.2)
             button.click()
+            time.sleep(0.2)
             assert price != test_object.is_visible('class_name', 'form-with-warrancy__form-price-new').text
             price = test_object.is_visible('class_name', 'form-with-warrancy__form-price-new').text
 
@@ -208,7 +210,9 @@ class TestWebUi:
         text_prices = [float(re.sub(r'[$]', '', price.text)) for price in elements_of_prices]
         price = test_object.is_visible('class_name', 'form-with-warrancy__form-price-new').text
         for i in range(len(buttons)):
+            time.sleep(0.2)
             buttons[i].click()
+            time.sleep(0.2)
             # check calculation of price
             new_price = test_object.is_visible('class_name', 'form-with-warrancy__form-price-new').text
             assert float(re.sub(r'[$]', '', price)) + text_prices[i] == float(re.sub(r'[$]', '', new_price))
@@ -242,7 +246,7 @@ class TestWebUi:
         test_object.are_visible('class_name', 'top-category-slider__item')[0].click()
         test_object.is_visible('class_name', 'category-slider__overlay-link').click()
         self.driver.execute_script(f"window.scrollTo(0, {300})")
-        time.sleep(0.5)
+        time.sleep(1)
         # click on button 'add to card'
         test_object.are_visible('class_name', 'form-with-warrancy__form-action')[1].click()
         # get price before
@@ -307,7 +311,7 @@ class TestWebUi:
         test_object.are_visible('class_name', 'top-category-slider__item')[0].click()
         test_object.is_visible('class_name', 'category-slider__overlay-link').click()
         self.driver.execute_script(f"window.scrollTo(0, {300})")
-        time.sleep(0.5)
+        time.sleep(1)
         # click on button 'add to card'
         test_object.are_visible('class_name', 'form-with-warrancy__form-action')[1].click()
         # click on 'hide order summary'
@@ -410,7 +414,9 @@ class TestWebUi:
         bundle_buttons = test_object.are_present('class_name', 'bundle-toggler__item')[:2]
         price = ''
         for button in bundle_buttons:
+            time.sleep(0.2)
             button.click()
+            time.sleep(0.2)
             assert price != test_object.is_present('class_name', 'form-with-warrancy__form-price-new')
 
     def test_navigation_button_catalog(self):
